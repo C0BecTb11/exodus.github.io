@@ -1,5 +1,5 @@
 # EXODUS
-![Exodus Logo](assets/images/exodus_logo.jpg)
+![Exodus Logo](images/gemini-2.5-flash-image-preview_Cinematic_sci-fi_movie_poster_with_a_long_symmetrical_spaceship_corridor_featuring_a_wet_reflective-0.jpg)
 
 ### Официальный канон текстовой ролевой
 
